@@ -15,7 +15,7 @@ Combining with [Tytykiller's Absolution leveling guide](https://github.com/super
 
 ### Reset
 
-- [ 1] Twilight Strand: kill `Hillock`
+- [ ] Twilight Strand: kill `Hillock`
 - [ ] Lioneye's Watch: Tarkleigh `gem`
   - [ ] Level 2: Buy `BBG` `BBB` `RGB`
   - [ ] `BBG`: Freezing Pulse (B), Onslaught (G), Arcane Surge (B)
